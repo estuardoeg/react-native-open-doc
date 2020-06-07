@@ -3,10 +3,8 @@ Pod::Spec.new do |s|
   s.name         = "RNCOpenDoc"
   s.version      = "1.0.0"
   s.summary      = "React Native module for openning documents"
-  s.description  = <<-DESC
-                  RNCOpenDoc
-                   DESC
-  s.homepage     = ""
+  
+  s.homepage     = "https://github.com/estuardoeg/react-native-open-doc"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "guy.blank@capriza.com" }
